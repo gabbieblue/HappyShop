@@ -7,17 +7,6 @@ target/
 !**/src/test/**/target/
 
 # ========================
-# IDE: IntelliJ IDEA
-# ========================
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
-*.iws
-*.iml
-*.ipr
-
-# ========================
 # IDE: Eclipse
 # ========================
 .apt_generated
